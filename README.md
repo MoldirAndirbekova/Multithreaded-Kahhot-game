@@ -1,4 +1,4 @@
-# Multithreaded-Kahhot-game
+# Multithreaded-Kahoot-game
 
 Multiplayer Kahoot Game by using Java to simulate the common functions of creating and playing an online game. 
 By using Multithreading, Networking, OOP, Exception Handling developed Kahoot.com as a server side and Kahoot.it as a client side. 
